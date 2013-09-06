@@ -1,0 +1,14 @@
+body {
+	font-family: "futura";
+	background-image: url('../images/maverick.jpg');
+	background-size: 100%;
+}
+
+#main h1{
+	font-family: "helvetica neue";
+	font-weight: 100;
+	text-align: center;
+	font-size: 150px;
+	color: white;
+	margin-top: 1.5em;
+}
